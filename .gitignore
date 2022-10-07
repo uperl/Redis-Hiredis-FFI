@@ -1,0 +1,5 @@
+Redis-Hiredis-FFI-*
+/.build/
+*.swp
+
+
